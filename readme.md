@@ -1,0 +1,1 @@
+-Configure API Key  and database connection in appsettings.json
